@@ -1,3 +1,5 @@
+# Literaly adding this line with no purpose in order to test some Github functionalities.
+
 # QEMU/Libvirt connection
 variable "libvirt_provider_uri" {
   default = "qemu:///system"
